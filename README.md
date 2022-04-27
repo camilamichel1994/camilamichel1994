@@ -1,10 +1,10 @@
 ### Olá! <img src="./assets/wave.gif" width="30px">
 <br>
 
-Sou Camila Michel, Engenheira Web. Atuando em projetos com foco em Front-end utilizando Javascript.
+Sou Camila Michel, Engenheira de software. Atuando em projetos com foco em Front-end utilizando tecnologias Javascript.
 
-- ❤️  Atualmente trabalhando com Angular
-- 🌱  Também uso React, Vue, Node and React Native
+- ❤️  Atualmente trabalhando com Angular, Typescript, e React Native!
+- 🌱  Também uso React, Vue, e Node
 - 😄  Amo trabalho remoto!
 <br><br>
 
@@ -17,7 +17,7 @@ Sou Camila Michel, Engenheira Web. Atuando em projetos com foco em Front-end uti
 [<img src="./assets/instagram.jpg" width="30px">](https://www.instagram.com/camilamichel94/)
 [<img src="./assets/linkedin.png" width="30px">](https://www.linkedin.com/in/camila-michel/)
 
-### ⭐  Languages and Tools
+### ⭐  Ferramentas
 <br>
 <p float="left">
   <img src="./assets/vscode.png" width="30px">
