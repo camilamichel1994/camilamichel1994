@@ -3,7 +3,7 @@
 
 Sou Camila Michel, Engenheira de software. Atuando em projetos com foco em Front-end utilizando tecnologias Javascript.
 
-- ❤️  Atualmente trabalhando com Angular, Typescript, e React Native!
+- ❤️  Atualmente trabalho com React Native!
 - 🌱  Também uso React, Vue, e Node
 - 😄  Amo trabalho remoto!
 <br><br>
