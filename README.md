@@ -1,7 +1,7 @@
 ### Olá! <img src="./assets/wave.gif" width="30px">
 <br>
 
-Sou Camila Michel, Engenheira de software. Atuando em projetos com foco em Front-end utilizando tecnologias Javascript.
+Sou Camila Michel, Engenheira de software. Atuando em projetos com foco em Mobile utilizando tecnologias Javascript.
 
 - ❤️  Atualmente trabalho com React Native!
 - 🌱  Também uso React, Vue, e Node
